@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-maven-plugin-2.2.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../OtherCodeTools/bos_repository/bos_repository/org/springframework/boot/spring-boot-maven-plugin/2.2.0.RELEASE/spring-boot-maven-plugin-2.2.0.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
